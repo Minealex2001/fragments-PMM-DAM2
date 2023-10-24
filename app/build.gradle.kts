@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.alejandro.fragments"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.alejandro.fragments"
