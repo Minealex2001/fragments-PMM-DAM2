@@ -1,4 +1,4 @@
-package com.alejandro.fragments;
+package com.example.fragments;
 
 import org.junit.Test;
 
